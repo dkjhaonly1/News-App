@@ -115,4 +115,4 @@ Feel free to reach out if you have any questions or suggestions about this proje
 
 - **Name**: [DeepakJha]
 - **Email**: [dkjhaonly1@gmail.com]
-- **GitHub**: [your-github-profile-link](https://github.com/dkjhaonly1)
+- **GitHub**: [dkjhaonly1](https://github.com/dkjhaonly1)
