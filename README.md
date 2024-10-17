@@ -113,6 +113,6 @@ This project is licensed under the MIT License. For more information, see the [L
 ## Contact
 Feel free to reach out if you have any questions or suggestions about this project:
 
-- **Name**: [Your Name]
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-profile-link](https://github.com/your-username)
+- **Name**: [DeepakJha]
+- **Email**: [dkjhaonly1@gmail.com]
+- **GitHub**: [your-github-profile-link](https://github.com/dkjhaonly1)
